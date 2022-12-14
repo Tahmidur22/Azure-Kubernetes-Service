@@ -16,6 +16,6 @@ Kubernetes service:
 <img width="1107" alt="Screenshot 2022-12-13 at 12 06 12" src="https://user-images.githubusercontent.com/65872348/207612113-c8e2cd91-f56d-4a45-b4c2-4cef652c53d0.png">
 
 
-External IP - Sample App:
+External IP outcome - Azure App:
 
 <img width="924" alt="Screenshot 2022-12-13 at 12 04 51" src="https://user-images.githubusercontent.com/65872348/207320024-0c979325-b787-4f47-ac06-95d191353cb7.png">
